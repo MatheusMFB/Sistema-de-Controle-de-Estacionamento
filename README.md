@@ -36,11 +36,11 @@ PARKING MANAUS
 ## Começando
 [//]: # (adicione os recursos do seu projeto aqui :)
 	
-- Clone o repositório <code>git clone github.com/MatheusMFB/Sistema-de-Controle-de-Estacionamento.git<code>.
+- Clone o repositório <code>git clone github.com/MatheusMFB/Sistema-de-Controle-de-Estacionamento.git</code>.
 - Use um servidor Local ex: xampp, wampp etc.
 - Coloque os arquivos na pasta HTDOCS e inicie o servidor Apache.
 - Abra um navegador qualquer ex: Chrome, Firefox etc.
-- Cole a URL<code>localhost/Sistema-de-Controle-de-Estacionamento<code>.
+- Cole a URL<code>localhost/Sistema-de-Controle-de-Estacionamento</code>.
 
 ## Licença
 
