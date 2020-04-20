@@ -35,7 +35,7 @@ PARKING MANAUS
 
 ## Começando
 	
-Descreva aqui a maneira de usar / instalar seu projeto
+-Clone o repositorio <code>git clone github.com/MatheusMFB/Sistema-de-Controle-de-Estacionamento.git<code>
 
 
 ## Licença
