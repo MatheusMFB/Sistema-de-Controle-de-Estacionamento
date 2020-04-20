@@ -20,7 +20,7 @@ PARKING MANAUS
 
 [//]: # (adicione seus gifs / imagens aqui :)
 <div>
-  <img src = "https://media.giphy.com/media/THfbQSQoveEAZRYWJU/giphy.gif" alt = "demo" height = "500" width="100%">
+  <img src = "https://i.imgur.com/s2To465.gif" alt = "demo" height = "785">
 </div>
 
 <hr />
