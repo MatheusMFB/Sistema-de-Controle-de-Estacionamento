@@ -4,7 +4,7 @@
 
 <h1 align = "center">
 <br>
-  <img src = "https://imgur.com/a/H2AvxH1" alt = "Sistema de Controle de Estacionamento" width = "120">
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/H2AvxH1"><a href="//imgur.com/a/H2AvxH1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <br>
 <br>
 PARKING MANAUS
