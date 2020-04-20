@@ -4,7 +4,7 @@
 
 <h1 align = "center">
 <br>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/H2AvxH1"><a href="//imgur.com/a/H2AvxH1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://imgur.com/6h9nup5" alt="PARKING MANAUS" width="120">
 <br>
 <br>
 PARKING MANAUS
