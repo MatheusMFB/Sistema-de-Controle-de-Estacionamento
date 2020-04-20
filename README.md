@@ -4,7 +4,7 @@
 
 <h1 align = "center">
 <br>
-  <img src="https://i.imgur.com/novZFIL.png" alt="PARKING MANAUS" width="120">
+  <img src="https://i.imgur.com/novZFIL.png" alt="PARKING MANAUS" width="320">
 <br>
 <br>
 PARKING MANAUS
