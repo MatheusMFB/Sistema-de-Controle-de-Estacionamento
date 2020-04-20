@@ -4,10 +4,10 @@
 
 <h1 align = "center">
 <br>
-  <img src = "YOUR_LOGO_URL" alt = "Sistema de Controle de Estacionamento" width = "120">
+  <img src = "https://imgur.com/a/H2AvxH1" alt = "Sistema de Controle de Estacionamento" width = "120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+PARKING MANAUS
 </h1>
 
 <p align = "center"> Sistema de Controle de Estacionamento feito como trabalho final do curso de Programação WEB pela FPF Tech, usando as tecnologias HTML, CSS, PHP, Javascript, Bootstrap. </p>
